@@ -31,6 +31,7 @@ Es folgen zwei Tabellen mit Vorschlägen für den täglichen Gebrauch.
 | checkout    | checkouten         | nehmen                |
 
 Hier noch einige (zum Teil nicht ganz ernste)
+
 | Substantiv    | Aktueller Gebrauch | Vorschlag                  |
 |---------------|--------------------|----------------------------|
 | git           | git                | Depp                       |
