@@ -13,41 +13,42 @@ Es folgen zwei Tabellen mit Vorschlägen für den täglichen Gebrauch.
 
 | Verb        | Aktueller Gebrauch | Vorschlag             |
 |-------------|--------------------|-----------------------|
-| init        | initten            | eröffnen              |
+| init        | initten            | eröffnen               |
 | add         | adden              | hinzufügen            |
 | pull        | pullen             | ziehen                |
-| push        | pushen             | drücken               |
+| push        | pushen             | schieben              |
 | clone       | clonen             | nachmachen            |
 | fetch       | fetchen            | holen                 |
 | branch      | branchen           | abzweigen             |
-| commit      | commiten           | übergeben             |
+| commit      | commiten           | festlegen             |
 | rebase      | rebasen            | (neu) erden           |
-| diff        | diffen             | unterscheiden         |
-| merge       | mergen             | vereinigen            |
-| fork        | forken             | gabeln                |
-| stash       | stashen            | bunkern               |
+| diff         | diffen              | unterscheiden         |
+| merge       | mergen             | zusammenführen        |
+| fork        | forken             | abspalten             |
+| stash       | stashen            | verstecken            |
 | tag         | taggen             | markieren             |
 | cherry-pick | cherry-picken      | Rosinen herauspicken  |
 | checkout    | checkouten         | nehmen                |
 
-| Substantiv    | Aktueller Gebrauch | Vorschlag            |
-|---------------|--------------------|----------------------|
-| git           | git                | Depp                 |
-| github        | github             | Deppendrehkreuz      |
-| gitlab        | gitlab             | Deppenlabor          |
-| gitea         | gitea              | Deppentee                
-| bitbucket     | bitbucket          | Gebisseimer          |
-| repository    | repo               | Lagerstätte          |
-| branch        | branch             | Zweig                |
-| commit        | commit             | Übergabe             |
-| log           | log                | Tagebuch             |
-| pull request  | pull request       | Ziehbegehren         |
-| merge request | merge request      | Vereinigungsbegehren |
-| stash         | stash              | Versteck             |
-| status        | status             | Zustand              |
-| tag           | tag                | Markierung           |
-| origin        | origin             | Ursprung             |
-| master        | master             | Meister              |
+Hier noch einige (zum Teil nicht ganz ernste)
+| Substantiv    | Aktueller Gebrauch | Vorschlag                  |
+|---------------|--------------------|----------------------------|
+| git           | git                | Depp                       |
+| github        | github             | Deppendrehkreuz            |
+| gitlab        | gitlab             | Deppenlabor                |
+| gitea         | gitea              | Deppentee                  |
+| bitbucket     | bitbucket          | Gebisseimer                |
+| repository    | repo               | Lagerstätte                |
+| branch        | branch             | Zweig                      |
+| commit        | commit             | Übergabe                   |
+| log           | log                | Tagebuch                   |
+| pull request  | pull request       | Ziehbegehren               |
+| merge request | merge request      | Antrag auf Zusammenführung |
+| stash         | stash              | Versteck                   |
+| status        | status             | Zustand                    |
+| tag           | tag                | Markierung                 |
+| origin        | origin             | Ursprung                   |
+| master        | master             | Meister                    |
 
 ## Beispiele
 
