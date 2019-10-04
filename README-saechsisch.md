@@ -54,11 +54,14 @@ vor:
     git config --global alias.zerrn pull
     git config --global alias.driggn push
     git config --global alias.zweesch branch
-    git config --global alias.verzweeschn branch
+    git config --global alias.abzweijschen branch
     git config --global alias.iebergehm commit
+    git config --global alias.iebergabe commit
     git config --global alias.umschreim rebase
     git config --global alias.zammmeern merge
     git config --global alias.indebuchde stash
+    git config --global alias.buchde stash
     git config --global alias.margiern tag
+    git config --global alias.margierer tag
 
     alias blinse=git
