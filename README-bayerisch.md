@@ -18,14 +18,14 @@ Do sigst zwoa Tabein mit Vorschlägen de ma jeden Dog hernehma ko.
 | clone       | clonen             | nochmacha             |
 | fetch       | fetchen            | hoin                  |
 | branch      | branchen           | obzwoang              |
-| commit      | commiten           | dazuadoa              |
+| commit      | commiten           | übergem               |
 | rebase      | rebasen            | neimacha              |
 | diff        | diffen             | vergleicha            |
 | merge       | mergen             | zamdoa                |
 | fork        | forken             | goben                 |
 | stash       | stashen            | bunkan                |
 | tag         | taggen             | makian                |
-| cherry-pick | cherry-picken      | Weibierl rausbicka         |
+| cherry-pick | cherry-picken      | Weibierl rausbicka    |
 | checkout    | checkouten         | nehma                 |
 
 | Substantiv    | Derzeit werd gnoma | Vorschlog            |
