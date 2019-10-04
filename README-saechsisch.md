@@ -32,7 +32,7 @@ Nu folschen zwee Dabelln mit Vorschläschen für den däglichen Gebrauch.
 | commit       | commit             | Iebergabe     |
 | pull request | pull request       | Nimmdasanfrache  |
 | stash        | stash              | Buchde      |
-| tag          | tag                | margiern    |
+| tag          | tag                | Margierer    |
 
 ## Beispiele
 
