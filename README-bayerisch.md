@@ -51,15 +51,15 @@ Do sigst zwoa Tabein mit Vorschlägen de ma jeden Dog hernehma ko.
 
     - Konst du des Zwoagal, des i grod umgschriem hob, ziang und zum Doldidrahgreiz drucka?
 
-    - Dafür hob i a neie Schupfa aufgmacht, machs noch und nimm as Programiarazwoagal.
+    - Dafür hob i an neia Schupfn aufgmacht, machs no und nimm as Programiarazwoagal.
 
     - Na, druck des gleiche zum Moasta im Uasprung!
 
-    - I hob grod a Zwoagal gmacht und de neia Sachan aus da Schupfa dazua do.
+    - I hob grod a Zwoagal gmacht und de neian Sachan ausm Schupfn dazua do.
 
     - Mach an neia Ziangvorschlag, wennst mit dem zamdoa fertig bist!
 
-    - Am besten mia bickan uns de Weibierl aus dem Moastazwoagal raus.
+    - Am besten mia bickan uns de Weibierl ausm Moastazwoagal raus.
 
     - Goibe moi aufn Doldidrahgreiz!
 
