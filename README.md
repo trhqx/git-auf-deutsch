@@ -15,6 +15,7 @@ Es folgen zwei Tabellen mit Vorschlägen für den täglichen Gebrauch.
 |-------------|--------------------|-----------------------|
 | init        | initten            | eröffnen               |
 | add         | adden              | hinzufügen            |
+| blame       | blamen             | beschuldigen        |
 | pull        | pullen             | ziehen                |
 | push        | pushen             | schieben              |
 | clone       | clonen             | nachmachen            |
@@ -38,6 +39,7 @@ Hier noch einige (zum Teil nicht ganz ernste)
 | github        | github             | Deppendrehkreuz            |
 | gitlab        | gitlab             | Deppenlabor                |
 | gitea         | gitea              | Deppentee                  |
+| blame         | blame              | Deppenbeschuldigung        |
 | bitbucket     | bitbucket          | Gebisseimer                |
 | repository    | repo               | Lagerstätte                |
 | branch        | branch             | Zweig                      |
@@ -58,6 +60,8 @@ Hier noch einige (zum Teil nicht ganz ernste)
     - Dafür habe ich eine neue Lagerstätte eröffnet, mach sie nach und nimm dir den Entwicklungszweig.
 
     - Nein, drücke das gleich zum Meister im Ursprung!
+    
+    - Du kannst in der Deppenbeschuldigung sehen, wer das gändert hat.
 
     - Ich hab gerade abgezweigt und die Änderungen aus meinem Versteck übergeben.
 
@@ -88,7 +92,9 @@ Wer den nächsten Schritt machen will, hier eine Anleitung, die Depp auf Deutsch
     git config --global alias.nimm checkout
     git config --global alias.tagebuch log
     git config --global alias.zustand status
+    git config --global alias.beschuldige blame
 
 Und füge die folgende Zeile zu deiner `~/.bashrc` (oder das Äquivalent auf deinem Betriebssystem) hinzu:
 
     alias depp=git
+https://github.com/danielauener/git-auf-deutsch.git
